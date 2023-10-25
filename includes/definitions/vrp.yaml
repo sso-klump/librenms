@@ -15,6 +15,7 @@ discovery:
             - VRP Software Version
             - Software Version VRP
             - Versatile Routing Platform Software
+            - Huawei YunShan OS
 poller_modules:
     slas: true
     xdsl: true
